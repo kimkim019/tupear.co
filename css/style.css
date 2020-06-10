@@ -1024,7 +1024,7 @@ h3 {
 .header-area .main-header-area .main-menu ul li a::before {
   position: absolute;
   content: "";
-  background: #04D2C8;
+  background: #571844;
   width: 100%;
   height: 3px;
   bottom: -1px;
