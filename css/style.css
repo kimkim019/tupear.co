@@ -18,13 +18,13 @@
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a64eee+0,3c35ce+100 */
   background: #46ac1d;
   /* Old browsers */
-  background: -moz-linear-gradient(left, #46ac1d 0%, #3c35ce 100%);
+  background: -moz-linear-gradient(left, #46ac1d 0%, #6bbc4a 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #46ac1d 0%, #3c35ce 100%);
+  background: -webkit-linear-gradient(left, #46ac1d 0%, #6bbc4a 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #46ac1d 0%, #3c35ce 100%);
+  background: linear-gradient(to right, #46ac1d 0%, #6bbc4a 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#46ac1d', endColorstr='#3c35ce',GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#46ac1d', endColorstr='#6bbc4a',GradientType=1 );
   /* IE6-9 */
 }
 
